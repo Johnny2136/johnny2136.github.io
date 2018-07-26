@@ -6,7 +6,7 @@
 name: Johnny Johnson
 
 # Short bio or description (displayed in the header)
-description: Software Archetect from Virginia USA
+description: Software Architect from Virginia USA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/6976295?s=400&u=7d3edb157c6f0a0bb1e1d9b2d349be14b7d3e35a&v=4
@@ -38,6 +38,9 @@ disqus: https-johnny2136-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
+
+plugins:
+  - jemoji
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 
