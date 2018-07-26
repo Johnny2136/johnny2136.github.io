@@ -39,9 +39,6 @@ disqus: https-johnny2136-github-io
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-plugins:
-  - jemoji
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 
 # Used for Sitemap.xml and your RSS feed
@@ -80,6 +77,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji
 
 # Exclude these files from your production _site
 exclude:
