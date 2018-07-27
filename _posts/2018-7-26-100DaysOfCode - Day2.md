@@ -47,3 +47,4 @@ console.log(matrix);
 *  PassedCatch Off By One Errors When Using Indexing
 *  PassedUse Caution When Reinitializing Variables Inside a Loop
 *  PassedPrevent Infinite Loops with a Valid Terminal Condition
+[Code Here](https://github.com/Johnny2136/FCC-Projects/blob/master/FCC_Challenges/IntroductionToTheDebuggingChallenges.js)
