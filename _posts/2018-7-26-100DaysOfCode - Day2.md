@@ -2,7 +2,7 @@
 layout: post
 title: Day 2 of 100 Days Of Code
 ---
-## Day 2: July 26, Wednesday
+## Day 2: July 26, Thursday
 
 **Today's Progress**: I've gone through the remaining exercises on FreeCodeCamp Debugging Project.
 
