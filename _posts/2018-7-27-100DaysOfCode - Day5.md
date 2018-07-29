@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 4 of 100 Days Of Code
+title: Day 5 of 100 Days Of Code
 ---
  ## Day 5: July 29, Sunday
 
