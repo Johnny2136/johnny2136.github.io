@@ -2,7 +2,7 @@
 layout: post
 title: Day 5 of 100 Days Of Code
 ---
- ## Day 5: July 29, Sunday
+## Day 5: July 29, Sunday
 
  **Today 's Progress**: My goal today was to finish the remaining challanges in [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) it took more than 5 hours.
 
