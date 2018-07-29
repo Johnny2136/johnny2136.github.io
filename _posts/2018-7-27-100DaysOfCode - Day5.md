@@ -1,7 +1,7 @@
--- -
+---
 layout: post
 title: Day 4 of 100 Days Of Code
--- -
+---
  ## Day 5: July 29, Sunday
 
  **Today 's Progress**: My goal today is to finnish the remaining challanges in [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures).
@@ -51,4 +51,4 @@ console.log(getArrayOfUsers(users2));
 * PassedGenerate an Array of All Object Keys with Object.keys()
 * PassedModify an Array Stored in an Object
 
-All code is in GitHub and repl.it here: [Repl.it](https: //repl.it/@JohnJohnson2/FCCBasicDataStructurs2) or [GitHub](https://github.com/Johnny2136/FCC-Projects/blob/master/FCC_Challenges/BasicDataStructure.js)
+All code is in GitHub and repl.it here: [Repl.it](https://repl.it/@JohnJohnson2/FCCBasicDataStructurs2) or [GitHub](https://github.com/Johnny2136/FCC-Projects/blob/master/FCC_Challenges/BasicDataStructure.js)
