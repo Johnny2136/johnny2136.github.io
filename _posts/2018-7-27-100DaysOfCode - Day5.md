@@ -4,11 +4,9 @@ title: Day 5 of 100 Days Of Code
 ---
  ## Day 5: July 29, Sunday
 
- **Today 's Progress**: My goal today is to finnish the remaining challanges in [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures).
+ **Today 's Progress**: My goal today was to finish the remaining challanges in [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) it took more than 5 hours.
 
-**Thoughts**: Remembered NO OVER THINKING!!! I have a bad habit of over complicating simple instructions, well it says do "a" I think well should i get to "a" via `ax^2+ab+c=0` :smile:
-
-Today didn’t disappoint I forgot to capitalize the "O" in "Object" and spent almost an hour trying to figure why the unit tests weren’t passing ARGGGGG!!!
+**Thoughts**: Remembered NO OVER THINKING!!! I have a bad habit of over complicating simple instructions, when it says do "a" I think well should I get to "a" via `ax^2+ab+c=0` :smile: Today didn’t disappoint there were very vague instructions and the examples didn’t match what we were being called on to do Like the one challenge where I forgot to capitalize the "O" in "Object" and spent almost an hour trying to figure why the unit tests weren’t passing ARGGGGG!!!
 
 ```javascript
 //Generate an Array of All Object Keys with Object.keys()
@@ -40,7 +38,7 @@ console.log(getArrayOfUsers(users2));
 ```
 
 **Link(s) to work**
-1. [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
+1.  Finished [Introduction to the Basic Data Structure Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
 
 * PassedAdd Key-Value Pairs to JavaScript Objects
 * PassedModify an Object Nested Within an Object
