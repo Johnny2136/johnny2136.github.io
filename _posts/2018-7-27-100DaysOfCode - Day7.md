@@ -6,7 +6,7 @@ title: Day 7 of 100 Days Of Code
 
 **Today 's Progress**: I continued the challanges in [Introduction to Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) I coded for 1.5 hours.
 
-**Thoughts**: This week is a tough week I had another long day at work (counting the hellish commute) and was knee deep in Docker CLI and RedHat's OpenShift. I feel like I could sleep for a week. Tomorrow it’s another long commute day. The Challenges seem hard, to me coming up with code from scratch is difficult.
+**Thoughts**: This week is a tough week I had another long day at work (counting the hellish commute) and was knee deep in DockerFiles CLI and RedHat's OpenShift. I feel like I could sleep for a whole day. Tomorrow it’s another long commute day. The Challenges seem hard, to me coming up with code from scratch is difficult it feels like a white board interview.
 
 ```javascript
 //Find the Longest Word in a String
