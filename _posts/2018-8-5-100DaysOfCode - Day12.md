@@ -6,7 +6,7 @@ title: Day 12 of 100 Days Of Code
 
 **Today 's Progress**: I worked on the challenges in  [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) section.
 
-**Thoughts**: These FCC_Challenges were a lot different from the Challenges in the algorithm section that were so tough, there were plenty of good examples and instructions but I manages with the help of Stackoverflow to get them done OOP section seems easy Should get a lot done tomorrow. [resources: Mozella](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) and [Stackoverflow](https://stackoverflow.com)
+**Thoughts**: These FCC_Challenges were a lot different from the Challenges in the algorithm section that were so tough, this section has plenty of good examples and instructions but I did use a linter for the yaml on my blog site where I post my status. [resources: codebeautify](https://codebeautify.org/) 
 
 ```javascript
 //Use Prototype Properties to Reduce Duplicate Code
@@ -24,7 +24,7 @@ console.log("--------------------------------------------");
 
 **Link(s) to work**
 
-1. Started [Introduction to the Object Oriented Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+1. Continued [Introduction to the Object Oriented Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 
 **Introduction to the Object Oriented Programming**
 
