@@ -3,7 +3,7 @@ layout: post
 title: Day 20 of 100 Days Of Code
 ---
 
-## Day 20: August, Monday
+## Day 20: August 13, Monday
 
 **Today 's Progress**: I continue work [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
 
