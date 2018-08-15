@@ -3,7 +3,7 @@ layout: post
 title: Day 15 of 100 Days Of Code
 ---
 
-## Day 15: August, Wednesday
+## Day 15: August 08, Wednesday
 
 **Today 's Progress**: I continue to work [Functional Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming).
 
