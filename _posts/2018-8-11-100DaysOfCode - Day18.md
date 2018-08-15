@@ -3,7 +3,7 @@ layout: post
 title: Day 18 of 100 Days Of Code
 ---
 
-## Day 18: August, Saturday
+## Day 18: August 11, Saturday
 
 **Today 's Progress**: I started work [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
 
