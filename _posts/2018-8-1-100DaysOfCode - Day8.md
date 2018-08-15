@@ -2,7 +2,7 @@
 layout: post
 title: Day 8 of 100 Days Of Code
 ---
-## Day 8: August, Wednesday
+## Day 8: August 01, Wednesday
 
 **Today 's Progress**: I continued working the challanges in [Introduction to Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) I coded for 1.5 hours.
 
