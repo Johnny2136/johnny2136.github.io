@@ -3,7 +3,7 @@ layout: post
 title: Day 13 of 100 Days Of Code
 ---
 
-## Day 13: August, Monday
+## Day 13: August 06, Monday
 
 **Today 's Progress**: I worked on the challenges in  [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) section.
 
