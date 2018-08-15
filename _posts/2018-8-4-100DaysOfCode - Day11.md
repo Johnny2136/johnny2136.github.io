@@ -2,7 +2,7 @@
 layout: post
 title: Day 11 of 100 Days Of Code
 ---
-## Day 11: August, Saturday
+## Day 11: August 04, Saturday
 
 **Today 's Progress**: I finished the challenges in [Introduction to Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) and started the [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) section.
 
