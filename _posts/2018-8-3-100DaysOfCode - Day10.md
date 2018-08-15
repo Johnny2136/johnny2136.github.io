@@ -2,7 +2,7 @@
 layout: post
 title: Day 10 of 100 Days Of Code
 ---
-## Day 10: August, Friday
+## Day 10: August 03, Friday
 
 **Today 's Progress**: I continued working the challenges in [Introduction to Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting) I coded for 1.5 hours.
 
