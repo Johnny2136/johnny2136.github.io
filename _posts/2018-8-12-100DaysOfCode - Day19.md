@@ -3,7 +3,7 @@ layout: post
 title: Day 19 of 100 Days Of Code
 ---
 
-## Day 19: August, Sunday
+## Day 19: August 12, Sunday
 
 **Today 's Progress**: I continue work [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
 
