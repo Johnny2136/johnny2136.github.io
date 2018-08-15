@@ -3,7 +3,7 @@ layout: post
 title: Day 14 of 100 Days Of Code
 ---
 
-## Day 14: August, Tuesday
+## Day 14: August 07, Tuesday
 
 **Today 's Progress**: I finished the challenges in  [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) section and started [Functional Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming).
 
