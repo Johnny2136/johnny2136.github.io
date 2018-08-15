@@ -3,7 +3,7 @@ layout: post
 title: Day 16 of 100 Days Of Code
 ---
 
-## Day 16: August, Thursday
+## Day 16: August 09, Thursday
 
 **Today 's Progress**: I continue to work [Functional Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming).
 
