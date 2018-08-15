@@ -3,7 +3,7 @@ layout: post
 title: Day 17 of 100 Days Of Code
 ---
 
-## Day 17: August, Friday
+## Day 17: August 10, Friday
 
 **Today 's Progress**: I finished work [Functional Programming Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming).
 
