@@ -2,7 +2,7 @@
 layout: post
 title: Day 12 of 100 Days Of Code
 ---
-## Day 12: August, Sunday
+## Day 12: August 05, Sunday
 
 **Today 's Progress**: I worked on the challenges in  [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming) section.
 
