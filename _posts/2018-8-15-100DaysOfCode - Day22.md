@@ -3,7 +3,7 @@ layout: post
 title: Day 22 of 100 Days Of Code
 ---
 
-## Day 22: August 15, Tuesday
+## Day 22: August 15, Wednesday
 
 **Today 's Progress**: I continue work [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
 

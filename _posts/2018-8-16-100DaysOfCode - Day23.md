@@ -3,7 +3,7 @@ layout: post
 title: Day 23 of 100 Days Of Code
 ---
 
-## Day 23: August 16, Wednesday
+## Day 23: August 16, Thursday
 
 **Today 's Progress**: I continue work [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting).
 
