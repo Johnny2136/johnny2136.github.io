@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 23 of 100 Days Of Code
+title: Day 24 of 100 Days Of Code
 ---
 
 ## Day 24: August 17, Friday
