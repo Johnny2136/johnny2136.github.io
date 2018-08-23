@@ -3,7 +3,7 @@ layout: post
 title: Day 29 of 100 Days Of Code
 ---
 
-![Image of Certification](johnny2136.github.io/images/JS_Certification.png)
+![Image of Certification](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/JS_Certification.png)
 
 ## Day 29: August 22, Wednesday
 
