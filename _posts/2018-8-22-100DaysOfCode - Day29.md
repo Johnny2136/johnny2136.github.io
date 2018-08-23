@@ -3,7 +3,7 @@ layout: post
 title: Day 29 of 100 Days Of Code
 ---
 
-![Image of Certification](https://github.com/Johnny2136/FCC-Projects/blob/master/FCC_JS_Projects/JS_Certification.png)
+![Image of Certification](johnny2136.github.io/images/JS_Certification.png)
 
 ## Day 29: August 22, Wednesday
 
