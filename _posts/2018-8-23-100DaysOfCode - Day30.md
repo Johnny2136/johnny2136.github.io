@@ -61,4 +61,4 @@ This also was a frustrating challenge I worked pretty hard getting the tests to 
 * PassedUse `@if` and `@else` to Add Logic To Your Styles
 * PassedUse `@for` to Create a Sass Loop
 
-All code is in GitHub and repl.it here: [repl.it FCCProjectcashRegisterjs](https://repl.it/@JohnJohnson2/FCCProject-cashRegisterjs) or [FCC-Projects/FCC_JS_Projects](https://github.com/Johnny2136/FCC-Projects/tree/master/FCC_JS_Projects)
+All code is in GitHub and repl.it here: [Sass meister Johnny's gist](https://www.sassmeister.com/gist/09ea7ae1748eab1f8fa9056705463a77) or [FCC-introductionToTheSassChallenges.sass](https://github.com/Johnny2136/FCC-Projects/blob/Feature/FCC_Challenges/introductionToTheSassChallenges.sass
