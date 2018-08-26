@@ -5,7 +5,7 @@ title: Day 32 of 100 Days Of Code
 
 ![Image of reactjs](https://cdn-images-1.medium.com/max/1600/1*ZzZhMpsnsVPaFYLwZ0fs5g.jpeg)
 
-## Day 31: August 24, Friday
+## Day 32: August 25, Saturday
 
 **Today 's Progress**: I continued work on React.js [Introduction to the React Challenges](https://learn.freecodecamp.org/front-end-libraries/react).
 
