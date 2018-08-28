@@ -3,7 +3,7 @@ layout: post
 title: Day 34 of 100 Days Of Code
 ---
 
-## Day 34: August 27, Sunday
+## Day 34: August 27, Monday
 
 **Today 's Progress**: I continued work on React.js [Introduction to the React Challenges](https://learn.freecodecamp.org/front-end-libraries/react).
 
