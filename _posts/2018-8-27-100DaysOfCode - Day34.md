@@ -43,7 +43,7 @@ Camper.propTypes = {name:PropTypes.string.isRequired};
 Camper.defaultProps = { name : 'CamperBot'};
 ```
 
-A few relevant examples would be nice.
+A few relevant examples would be nice. I guess With all the documentation out on the web there are enough examples.
 
 **Link(s) to work**
 
