@@ -3,7 +3,7 @@ layout: post
 title: Day 42 of 100 Days Of Code
 ---
 
-![Image from React and Redux](http://onsen.io.s3-website-us-east-1.amazonaws.com/blog/content/images/2016/Jun/react_redux.png)
+![Day 42 "the answer to the greatest question of the universe and everything..."](https://vignette.wikia.nocookie.net/googology/images/e/e0/954.jpg/revision/latest?cb=20180103021656)
 
 ## Day 42: September 4, Tuesday
 
