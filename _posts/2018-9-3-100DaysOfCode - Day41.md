@@ -5,7 +5,7 @@ title: Day 41 of 100 Days Of Code
 
 ![Image from React and Redux](http://onsen.io.s3-website-us-east-1.amazonaws.com/blog/content/images/2016/Jun/react_redux.png)
 
-## Day 41: September, Monday
+## Day 41: September 3, Monday
 
 **Today 's Progress**: I continued work on Redux [Introduction to the Redux Challenges](https://learn.freecodecamp.org/front-end-libraries/redux).
 
