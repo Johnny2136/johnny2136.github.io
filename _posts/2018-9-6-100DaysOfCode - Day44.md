@@ -5,7 +5,7 @@ title: Day 44 of 100 Days Of Code
 
 !["Not too bad!"](http://diasporina.com/wp/wp-content/uploads/2016/12/ntb.png)
 
-## Day 43: September 6, Thursday
+## Day 44: September 6, Thursday
 
 **Today 's Progress**: Continuing work on the React on Redux challenge instructions are starting to make more sense but examples are not accurate. I refuse to let this get to me!!! The content is here: [Introduction to the React and Redux Challenges](https://learn.freecodecamp.org/front-end-libraries/react-and-redux).
 
