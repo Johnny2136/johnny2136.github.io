@@ -3,7 +3,6 @@ layout: post
 title: Day 47 of 100 Days Of Code
 ---
 
-!["Done with REACT/Redux!"](https://derpicdn.net/img/view/2012/9/16/99468__safe_pinkie+pie_sweet+and+elite_animated_partillery_party+cannon.gif)
 
 ## Day 47: September 9, Sunday
 
