@@ -73,23 +73,23 @@ class App extends React.Component {
     renderer.link = (href, title, text) => `<a href="${href}" target="_blank">${text}</a>`;    
     return (
       <div className="container-fluid">
-        {/* HEADER */}
+        /* HEADER */
         <header>
           <h1 className="text-center app-heading">Markdown Previewer</h1>
         </header>
         <main>
           <div class="box">
-            {/* EDIT TAB */}
+            /* EDIT TAB */
             <div class="one" title=" Edit" >
               <textarea className="form-control" rows="20" aria-label="type GitHub Flavored Markdown text" onChange={(event) => this.handleChange(event)} value={this.state.markdownInput} id="editor"  />
             </div>
-            {/* PREVIEW TAB */}
+            /* PREVIEW TAB */
             <div class="two" title=" Preview">
               <div className="preview" dangerouslySetInnerHTML={{__html: marked(this.state.markdownInput, {breaks: true, renderer})}} id="preview"></div>
             </div>          
           </div>
         </main>
-        {/* FOOTER */}
+        /* FOOTER */
         <footer className="text-center">Coded by <a href="https://johnny2136.github.io/" target="_blank">Johnny2136</a></footer>
       </div>
     );
