@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Day 50 of 100 Days Of Code
+title: Day 51 of 100 Days Of Code
 ---
 
 
-## Day 50: September 12, Wednesday
+## Day 51: September 13, Thursday
 
 **Today 's Progress**: Continued working on the [Introduction to the Front End Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects).
 
-**Thoughts**: Started working on the third project toward the Front End Certification at free code camp.
+**Thoughts**: Still working on the third project toward the Front End Certification at free code camp. I officially hate this project!
 
 ### Resources used:
   * [Build a Markdown Previewer](https://codepen.io/freeCodeCamp/full/GrZVVO),
@@ -27,7 +27,7 @@ You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and
 - [x] User Story #4: Within each .drum-pad, there should be an HTML5 audio element which has a src attribute pointing to an audio clip, a class name of clip, and an id corresponding to the inner text of its parent .drum-pad (e.g. id="Q", id="W", id="E" etc.).
 - [x] User Story #5: When I click on a .drum-pad element, the audio clip contained in its child audio element should be triggered.
 - [ ] User Story #6: When I press the trigger key associated with each .drum-pad, the audio clip contained in its child audio element should be triggered (e.g. pressing the Q key should trigger the drum pad which contains the string "Q", pressing the W key should trigger the drum pad which contains the string "W", etc.).
-- [ ] User Story #7: When a .drum-pad is triggered, a string describing the associated audio clip is displayed as the inner text of the #display element (each string must be unique).
+- [x] User Story #7: When a .drum-pad is triggered, a string describing the associated audio clip is displayed as the inner text of the #display element (each string must be unique).
 
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 Once you're done, submit the URL to your working project with all its tests passing.
@@ -42,7 +42,7 @@ Solution: [https://codepen.io/johnny2136/pen/WgJYBK](https://codepen.io/johnny21
 
 **Link(s) to work**
 
-1. Started work on [Introduction to the Front End Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects). (Trying to use React on Redux)
+1. Continued work on [Introduction to the Front End Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects). (Trying to use React on Redux)
 
 **Introduction to the Front End Libraries Projects**
 
