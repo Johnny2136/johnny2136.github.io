@@ -4,7 +4,7 @@ title: Day 50 of 100 Days Of Code
 ---
 
 
-## Day 50: September 12, Tuesday
+## Day 50: September 12, Wednesday
 
 **Today 's Progress**: Continued working on the [Introduction to the Front End Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects).
 
