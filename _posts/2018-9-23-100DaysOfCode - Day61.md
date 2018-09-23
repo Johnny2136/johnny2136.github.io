@@ -19,7 +19,7 @@ title: Day 61 of 100 Days Of Code
   * [D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
   * [D3 in Depth](https://d3indepth.com/)
 
-  ### Add Document Elements with D3
+ ### Add Document Elements with D3
 
   **The Lesson:**
   D3 has several methods that let you add and change elements in your document.
