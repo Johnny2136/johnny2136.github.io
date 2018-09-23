@@ -19,7 +19,7 @@ title: Day 61 of 100 Days Of Code
   * [D3 Tutorial](https://www.dashingd3js.com/table-of-contents)
   * [D3 in Depth](https://d3indepth.com/)
 
-  ## Add Document Elements with D3
+  ### Add Document Elements with D3
 
   **The Lesson:**
   D3 has several methods that let you add and change elements in your document.
@@ -62,7 +62,7 @@ title: Day 61 of 100 Days Of Code
   ```
 
 
-  ## Select a Group of Elements with D3
+  ### Select a Group of Elements with D3
 
   **The Lesson:**
   D3 also has the `selectAll()` method to select a group of elements. It returns an array of HTML nodes for all the items in the document that match the input string. Here's an example to select all the anchor tags in a document:
@@ -108,7 +108,7 @@ title: Day 61 of 100 Days Of Code
   ```
 
 
-  ## Work with Data in D3
+  ### Work with Data in D3
 
   **The Lesson:**
   The D3 library focuses on a data-driven approach. When you have a set of data, you can apply D3 methods to display it on the page. Data comes in many formats, but this challenge uses a simple array of numbers.
@@ -159,7 +159,7 @@ title: Day 61 of 100 Days Of Code
   ```
 
 
-  ## Work with Dynamic Data in D3
+  ### Work with Dynamic Data in D3
 
   **The Lesson:**
   The last two challenges cover the basics of displaying data dynamically with D3 using the `data()` and `enter()` methods. These methods take a data set and, together with the `append()` method, create a new DOM element for each entry in the data set.
@@ -196,7 +196,7 @@ title: Day 61 of 100 Days Of Code
   ```
 
 
-  ## Add Inline Styling to Elements
+  ### Add Inline Styling to Elements
 
   **The Lesson:**
   D3 lets you add inline CSS styles on dynamic elements with the style() method.
@@ -236,10 +236,10 @@ title: Day 61 of 100 Days Of Code
 
 **Introduction to the Data Visualization with D3 Challenges**
 
- -[x] Add Document Elements with D3
- -[x] Select a Group of Elements with D3
- -[x] Work with Data in D3
- -[x] Work with Dynamic Data in D3
- -[x] Add Inline Styling to Elements
+ - [x] Add Document Elements with D3
+ - [x] Select a Group of Elements with D3
+ - [x] Work with Data in D3
+ - [x] Work with Dynamic Data in D3
+ - [x] Add Inline Styling to Elements
 
 All code is in GitHub [FCC_Challenges/DataVisualizationWithD3.md](https://github.com/Johnny2136/FCC-Projects/edit/master/FCC_Challenges/DataVisualizationWithD3.md).
