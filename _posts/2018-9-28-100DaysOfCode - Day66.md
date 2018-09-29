@@ -3,7 +3,7 @@ layout: post
 title: Day 66 of 100 Days Of Code
 ---
 
-![First Vue Local](https://github.com/Johnny2136/johnny2136.github.io/blob/master/images/myvueproject.png)
+![FirstVue](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/myvueproject.png)
 
 ## Day 66: September 28, Friday
 
