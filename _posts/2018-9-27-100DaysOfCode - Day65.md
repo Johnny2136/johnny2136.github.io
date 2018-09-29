@@ -3,7 +3,7 @@ layout: post
 title: Day 65 of 100 Days Of Code
 ---
 
-## Day 65: September 27, Wednesday
+## Day 65: September 27, thursday
 
 **Today 's Progress**: Did the next lesson on [Learn Vue.js for free](https://scrimba.com/g/glearnvue).
 
