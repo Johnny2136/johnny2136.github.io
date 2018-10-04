@@ -3,7 +3,7 @@ layout: post
 title: Day 71 of 100 Days Of Code
 ---
 
-![Monday](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/ToDoDebug.png)
+![Wednesday](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/ToDoDebug%20day%202.png)
 
 ## Day 71: October 03, Wednesday
 
