@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stuck on Day 8 of 30 Days Of Code Challenge
+title: Still Stuck on Day 8 of 30 Days Of Code Challenge
 ---
 
 ![Tuesday](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/Atom2.png)
