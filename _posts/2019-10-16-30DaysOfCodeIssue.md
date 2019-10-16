@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Still Stuck on Day 8 of 30 Days Of Code Challenge
+title: Still Stuck on Day 8 of 30 Days Of Code Challenge (But I surrender and go with JS version ... for now)
 ---
 
-![Tuesday](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/Atom2.png)
+![GoLang_Defeate](https://raw.githubusercontent.com/Johnny2136/johnny2136.github.io/master/images/day8.png)
 
 ## Day 8: October 16, Wednesday
 
 **Today 's Progress**: I am working through getting [30-days-of-code](https://www.hackerrank.com/) I'm still stuck in Day 8.
-**Thoughts**: While I could get past the timeout error using JS, Its not going to help me get through my problems with golang.
+**Thoughts**: While I could get past the timeout error using JS, Its not going to help me get through my problems with golang, but I cant keep grinding away on this 30 day thing on day 8. So I went with what I have been coding in the most JS.
 
 ### Resources used:
   * [Github repo for 30 days of code](https://github.com/Johnny2136/30-Days-of-Code)
@@ -55,7 +55,7 @@ sam=99912222
 Not found
 harry=12299933
 ```
-### My Code
+### My  Original golang Code
 ```go
 package main
 import "fmt"
@@ -89,7 +89,44 @@ func main() {
     }
 }
 ```
+### My JS Code
+```JavaScript
+function processData(input) {
+    //Enter your code here
+        input = input.split('\n');
+    var n = parseInt(input[0]);
+    var phoneBook = [];
 
+    //Add values to the phoneBook dictionary.
+    for (var i = 0; i < n; i++){
+        var newinput = input[i+1];
+        newinput = newinput.split(' ');
+        phoneBook[newinput[0]] = newinput[1];
+    }
+
+    //Check if values are in dictionary.
+    for (var i = n+1; i < input.length; i++){
+        var num = (phoneBook[input[i]]);
+        if (num !== undefined) {
+            console.log(input[i]+'='+num);
+        } else {
+            console.log('Not found');
+        }
+    }
+}
+//end of my code
+//below is given by the challange
+process.stdin.resume();
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
+});
+
+process.stdin.on("end", function () {
+   processData(_input);
+});
+```
 
 **Link(s) to work**
 
